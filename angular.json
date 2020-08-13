@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Pipin"
+    }
+  },
+  "defaultProject": "Pipin",
+  "cli": {
+    "analytics": false
+  }
 }
